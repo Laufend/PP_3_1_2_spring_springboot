@@ -1,7 +1,7 @@
-package com.dmitriyfrolov.spring_mvc_hibernate.service;
+package com.dmitriyfrolov.spring.springboot.pp_3_1_2_spring_springboot.service;
 
-import com.dmitriyfrolov.spring_mvc_hibernate.dao.UserDAO;
-import com.dmitriyfrolov.spring_mvc_hibernate.entity.User;
+import com.dmitriyfrolov.spring.springboot.pp_3_1_2_spring_springboot.dao.UserDAO;
+import com.dmitriyfrolov.spring.springboot.pp_3_1_2_spring_springboot.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -47,6 +47,5 @@ public class UserServiceImpl implements UserService{
     public void deleteUser(int id) {
         userDAO.deleteUser(id);
     }
-
 
 }

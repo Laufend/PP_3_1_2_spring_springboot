@@ -1,6 +1,6 @@
-package com.dmitriyfrolov.spring_mvc_hibernate.dao;
+package com.dmitriyfrolov.spring.springboot.pp_3_1_2_spring_springboot.dao;
 
-import com.dmitriyfrolov.spring_mvc_hibernate.entity.User;
+import com.dmitriyfrolov.spring.springboot.pp_3_1_2_spring_springboot.entity.User;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

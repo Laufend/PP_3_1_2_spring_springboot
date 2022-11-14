@@ -1,4 +1,4 @@
-package com.dmitriyfrolov.spring_mvc_hibernate.entity;
+package com.dmitriyfrolov.spring.springboot.pp_3_1_2_spring_springboot.entity;
 
 import javax.persistence.*;
 

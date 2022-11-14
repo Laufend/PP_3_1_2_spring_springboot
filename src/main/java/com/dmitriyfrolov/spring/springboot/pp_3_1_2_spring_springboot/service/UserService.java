@@ -1,6 +1,6 @@
-package com.dmitriyfrolov.spring_mvc_hibernate.service;
+package com.dmitriyfrolov.spring.springboot.pp_3_1_2_spring_springboot.service;
 
-import com.dmitriyfrolov.spring_mvc_hibernate.entity.User;
+import com.dmitriyfrolov.spring.springboot.pp_3_1_2_spring_springboot.entity.User;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
-package com.dmitriyfrolov.spring_mvc_hibernate.controller;
+package com.dmitriyfrolov.spring.springboot.pp_3_1_2_spring_springboot.controller;
 
-import com.dmitriyfrolov.spring_mvc_hibernate.entity.User;
-import com.dmitriyfrolov.spring_mvc_hibernate.service.UserService;
+import com.dmitriyfrolov.spring.springboot.pp_3_1_2_spring_springboot.entity.User;
+import com.dmitriyfrolov.spring.springboot.pp_3_1_2_spring_springboot.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
